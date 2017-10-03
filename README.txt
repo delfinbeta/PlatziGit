@@ -1,5 +1,7 @@
 Hola este es mi primer proyecto Git
 
-DocumentaciÛn m·s amplia.
+Documentaci√≥n m√°s amplia.
 
-Escribi m·s cosas.
+Escribi m√°s cosas.
+
+Yo escrib√≠ este renglon mas, mi miamerita querida <3 
